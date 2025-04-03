@@ -1,5 +1,5 @@
 
-
+DATABASE NAME: "healthyfy"
 CREATE TABLE area (
     area_id INT AUTO_INCREMENT NOT NULL,
     area_name varchar(30) NOT NULL,
