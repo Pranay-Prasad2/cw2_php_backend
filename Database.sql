@@ -47,4 +47,19 @@ CREATE TABLE product (
 );
 
 
-INSERT INTO 
+INSERT INTO area (area_name) VALUES
+('London'),
+('Manchester'),
+('Birmingham'),
+('Leeds'),
+('Glasgow'),
+('Liverpool'),
+('Bristol'),
+('Sheffield'),
+('Edinburgh'),
+('Cardiff');
+
+INSERT INTO price (price_cat) VALUES
+('Affordable'),
+('Moderate'),
+('Premium'); 
